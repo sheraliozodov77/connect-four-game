@@ -17,7 +17,7 @@ This is a Connect Four game written in Python. It features a user-friendly inter
 2. Navigate to the project directory.
 
 ## Usage
-1. Run the Python script connect_n_state.py.
+1. Run the Python script connect_n_text.py.
 2. Follow the on-screen instructions to play the game.
 3. Enjoy the classic Connect Four experience with a friend!
 
